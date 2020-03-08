@@ -1,2 +1,3 @@
 # JS
 Contains files for course INTERACTIVITY WITH JS
+UNIVERSITY OF MICHIGAN
