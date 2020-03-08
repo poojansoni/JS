@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>loaction</title>
+    <script src="js/location.js">
+  </head>
+  <body>
+    <script type="text/javascript">
+      var loc = window.location;
+      document.write(loc);
+      document.write("<br> <h1>"+document.baseURI+"</h1> <br>");
+      var name = prompt("enter name");
+      document.write("name="+ name);
+    </script>
+    <p id = "date"></p>
+    <button type="button"  onclick="date()"> DATE </button>
+    
+  </body>
+</html>
